@@ -13,7 +13,6 @@ class Main {
         initializeInventory();
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to the Online Store!");
-        System.out.println("You have a coupon for eggs (66% off) that will be applied to your cart at checkout.");
       
         while (true) {
             System.out.println(" ");
